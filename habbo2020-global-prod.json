@@ -1,0 +1,16 @@
+{
+"companyName": "sulake",
+"productName": "habbo2020",
+"productVersion": "777.777.777",
+"dataUrl": "habbo2020-global-prod.data.unityweb",
+"wasmCodeUrl": "habbo2020-global-prod.wasm.code.unityweb",
+"wasmFrameworkUrl": "habbo2020-global-prod.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#8000BF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.9f1"
+}
